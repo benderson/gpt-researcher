@@ -70,7 +70,7 @@ Please see [here](https://docs.tavily.com/docs/gpt-researcher/getting-started) f
 
 ## ⚙️ Getting Started
 ### Installation
-> **Step 0** - Install Python 3.11 or later. [See here](https://www.tutorialsteacher.com/python/install-python) for a step-by-step guide.
+> **Step 0** - Install Python 3.11 or later. [See here](https://whiwww.tutorialsteacher.com/python/install-python) for a step-by-step guide.
 
 > **Step 1** - Download the project and navigate to its directory
 
